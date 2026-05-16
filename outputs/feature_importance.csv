@@ -1,0 +1,70 @@
+feature,importance
+cat__Agent Name_external.agent_05,0.1418617306468936
+cat__Agent Name_external.agent_03,0.13795499078977014
+cat__Agent Name_external.agent_01,0.1326492929300097
+cat__Agent Name_external.agent_04,0.12991947783716223
+cat__Agent Name_external.agent_02,0.12115205445260496
+num__Original Call Hour,0.11465584380555575
+num__DayOfWeek,0.03094739115507442
+num__Original Call Minute,0.02530857565990148
+num__IsWeekend,0.01837618541667021
+num__Month,0.018294908167369173
+cat__WeekName_Saturday,0.010408978799319221
+cat__WeekName_Sunday,0.009909031971469777
+cat__TimeClass_Evening,0.007071887304014073
+num__CallerAttemptNumber,0.006023793948529467
+cat__TimeClass_Morning,0.005764351722548029
+cat__TimeClass_Afternoon,0.005415209533871696
+cat__MonthName_November,0.00434923523902444
+cat__WeekName_Friday,0.003943576953568035
+cat__TimeClass_Noon,0.0036332273326933977
+cat__Agent Name_t1.tlp.tso.ms.agent_28,0.003556746181327953
+cat__CallerAttemptBucket_1,0.0027604732302085404
+cat__WeekName_Wednesday,0.0026293716219882466
+cat__MonthName_February,0.002617516648331983
+cat__CallerAttemptBucket_2,0.002523441249922693
+cat__WeekName_Monday,0.0024271735735154755
+cat__Agent Name_t1.tlp.tso.ms.agent_22,0.0022268020033891322
+cat__Agent Name_t1.tlp.tso.ms.agent_30,0.0021692973437466606
+cat__MonthName_May,0.0021414897525332526
+cat__Agent Name_t1.tlp.tso.ms.agent_18,0.0021332229124929702
+cat__Agent Name_t1.tlp.tso.ms.agent_14,0.0020850493051099194
+cat__MonthName_January,0.002070618539643632
+cat__MonthName_April,0.0018807723018246655
+cat__Agent Name_t1.tlp.tso.ms.agent_27,0.0018605287391250873
+cat__WeekName_Tuesday,0.0017975432731865456
+cat__WeekName_Thursday,0.0017944193195693478
+cat__Agent Name_t1.tlp.tso.ms.agent_24,0.0017915913811182523
+cat__CallerAttemptBucket_3,0.001768940969465937
+cat__MonthName_December,0.0017671396299464778
+cat__MonthName_June,0.0016963593439501096
+cat__MonthName_July,0.001544373164909232
+cat__Agent Name_t1.tlp.tso.ms.agent_13,0.0015310285673572753
+cat__MonthName_March,0.0014705322417711989
+cat__Agent Name_t1.tlp.tso.ms.agent_20,0.0013840582308902152
+cat__Agent Name_t1.tlp.tso.ms.agent_21,0.0013636929480274722
+cat__MonthName_August,0.001358784720722377
+cat__Agent Name_t1.tlp.tso.ms.agent_15,0.0013563542546855653
+cat__MonthName_October,0.0013535407524361504
+cat__Agent Name_t1.tlp.tso.ms.agent_17,0.001328587367642714
+cat__MonthName_September,0.0010952619024531798
+cat__Agent Name_t1.tlp.tso.ms.agent_05,0.0010844773897754159
+cat__Agent Name_t1.tlp.tso.ms.agent_26,0.0010227915747448451
+cat__Agent Name_t1.tlp.tso.ms.agent_09,0.0009553750292412517
+cat__Agent Name_t1.tlp.tso.ms.agent_06,0.0008971465860925333
+cat__Agent Name_t1.tlp.tso.ms.agent_04,0.0008399351540789766
+cat__Agent Name_t1.tlp.tso.ms.agent_08,0.0008300495334371524
+cat__Agent Name_t1.tlp.tso.ms.agent_01,0.0008182364970125999
+cat__Agent Name_t1.tlp.tso.ms.agent_23,0.000816623062559115
+cat__Agent Name_t1.tlp.tso.ms.agent_10,0.0008150396744904115
+cat__Agent Name_t1.tlp.tso.ms.agent_11,0.0007908434188575355
+cat__Agent Name_t1.tlp.tso.ms.agent_07,0.000766465262542508
+cat__Agent Name_t1.tlp.tso.ms.agent_25,0.0007495960282477219
+cat__CallerAttemptBucket_4-5,0.0007131094188832737
+cat__Agent Name_t1.tlp.tso.ms.agent_02,0.0006974021439674601
+cat__Agent Name_t1.tlp.tso.ms.agent_29,0.0006742267352800065
+cat__Agent Name_t1.tlp.tso.ms.agent_16,0.000663318430468703
+cat__Agent Name_t1.tlp.tso.ms.agent_03,0.000543077460059154
+cat__Agent Name_t1.tlp.tso.ms.agent_12,0.000515795806769576
+cat__Agent Name_t1.tlp.tso.ms.agent_19,0.0005093456256734225
+cat__CallerAttemptBucket_6+,0.00017269003047645095

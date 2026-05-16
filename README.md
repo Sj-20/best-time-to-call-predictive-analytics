@@ -160,18 +160,14 @@ outputs/future_best_time_recommendations.csv
 outputs/feature_importance.csv
 ```
 
-## 9. Recruiter-Focused Talking Points
 
-Use this explanation in interviews:
 
-> I originally built this as a descriptive analytics project to identify the best outbound call windows based on historical connection rates. Since the client data was confidential, I rebuilt the project using synthetic data with the same structure and business rules. I then matured the project into a predictive analytics use case by training a classification model to estimate connection probability before a call is attempted. I also deployed it as a Streamlit app so business users can test call windows and view recommended calling periods.
+## 9. Future Improvements
 
-## 10. Future Improvements
-
-- Add campaign-level features.
-- Add customer segment features.
-- Add holiday and payday indicators.
+- Adding campaign-level features.
+- Adding customer segment features.
+- Adding holiday and payday indicators.
 - Compare Random Forest, XGBoost, and Logistic Regression.
-- Add MLflow experiment tracking.
-- Add a batch scoring endpoint.
-- Add A/B test design for recommended vs. normal dialing schedule.
+- Adding MLflow experiment tracking.
+- Adding a batch scoring endpoint.
+- Adding A/B test design for recommended vs. normal dialing schedule.
